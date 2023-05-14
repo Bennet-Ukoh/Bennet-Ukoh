@@ -4,6 +4,10 @@ I,m Bennet.
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennet-Ukoh&show_icons=true&theme=radical&hide=stars,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bennet-Ukoh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Bennet-Ukoh/Bennet-Ukoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennet-Ukoh&show_icons=true&theme=radical&hide=stars,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bennet-Ukoh)](https://github.com/anuraghazra/github-readme-stats)
