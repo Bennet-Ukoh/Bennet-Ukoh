@@ -8,12 +8,11 @@
 ---
 
 ### :man_technologist:
-I am a Software Engineer - Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m currently a student at Holberton School - Alx-Africa.
+I am a Software Developer - Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :seedling: Exploring FrontEnd Development and UI/Ux.
+- :seedling: Exploring FrontEnd Development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I listen to podcast about trending issues in AI.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ukohbennet/)
 
